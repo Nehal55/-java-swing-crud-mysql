@@ -1,0 +1,1 @@
+ here  linda is taken as a database  and record is taken as a  table ( given in the my sql pic)
